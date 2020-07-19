@@ -2,11 +2,11 @@
   "foods": [
     {
       "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
-      "price": "19.90",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Ao molho branco",
+      "price": "19.90",
+      "description": "Macarrão ao molho branco, funghi e cheiro verde das montanhas!!!"
     },
     {
       "id": 2,
@@ -25,20 +25,12 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "name": "Teste",
-      "price": "19,00",
-      "description": "Teste de comida",
+      "id": 5,
       "available": true,
-      "id": 4
-    },
-    {
-      "image": "",
-      "name": "",
-      "price": "",
-      "description": "",
-      "available": true,
-      "id": 5
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Carbonara",
+      "price": "25.00",
+      "description": "Espaguete à carbonara, com guanciale"
     }
   ]
 }
